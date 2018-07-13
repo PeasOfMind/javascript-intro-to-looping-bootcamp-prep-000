@@ -7,3 +7,7 @@ function forLoop(anArr){
   }
   return anArr;
 }
+
+function whileLoop(num){
+  console.log()
+}
