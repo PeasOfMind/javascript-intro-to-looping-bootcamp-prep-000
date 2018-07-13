@@ -9,5 +9,8 @@ function forLoop(anArr){
 }
 
 function whileLoop(num){
-  console.log()
+  while(num>=0){
+    console.log(num);
+    num--;
+  }
 }
